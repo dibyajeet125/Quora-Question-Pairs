@@ -56,3 +56,5 @@ Future Directions
 Hyperparameter Tuning: Further optimization of model parameters to enhance performance.
 
 Advanced Embeddings: Exploring BERT or RoBERTa for improved semantic understanding.
+
+DATASET LINK: https://www.kaggle.com/code/akshat4112/quora-question-pair-similarity-part-1-basic-eda/input?select=train.csv.zip
